@@ -55,7 +55,7 @@ We combined both datasets into:
 | Hyperparameter | Value |
 |----------------|-------|
 | Epochs         | 5     |
-| Batch Size     | 64    |
+| Batch Size     | 250   |
 | Optimizer      | Adam  |
 | LR             | 1e-4  |
 | Loss           | CrossEntropyLoss |
@@ -110,8 +110,8 @@ I'm **Jimi Oso**, an undergraduate EECS student at MIT with a passion for AI, da
 ## 📢 Contact
 
 Feel free to reach out:  
-📧 ml4-sci@cern.ch (for ML4SCI reviewers)  
-👁️ [GitHub Profile](https://github.com/YOUR_USERNAME_HERE)
+📧 jimixoso@mit.edu (for ML4SCI reviewers)  
+👁️ [GitHub Profile](https://github.com/jimixoso)
 ```
 
 
