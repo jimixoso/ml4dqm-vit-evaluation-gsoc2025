@@ -1,0 +1,14 @@
+# Ignore dataset files
+data/*.npy
+
+# Ignore model checkpoints
+outputs/*.pth
+
+# Ignore temporary files
+*.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
+
+# VSCode-specific
+.vscode/
